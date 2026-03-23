@@ -62,4 +62,4 @@ This project is open source.
 ## 👨‍💻 Author
 
 Samarth Mahalkar  
-https://github.com/samarth-mahalkar
+ https://samarth-mahalkar.github.io/Todo-list/
